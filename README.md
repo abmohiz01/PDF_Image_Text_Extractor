@@ -1,6 +1,7 @@
 # Foreclosure Records Scraper
 
 This tool is designed to automate the process of searching and retrieving foreclosure records from a specific website. It utilizes Selenium WebDriver for browser automation, utilities to handle PDF downloads, and OCR utilities to extract specific information from downloaded documents.
+For PDFs reference you can check initial docs folder in which the PDFs file are present.
 
 ## Project Structure:
 
